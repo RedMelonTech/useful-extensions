@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:useful_extensions/useful_extensions.dart';
+import 'package:string_date_extensions/string_date_extensions.dart';
 
 void main() {
   test('String', () {

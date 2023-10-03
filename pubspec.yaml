@@ -1,4 +1,4 @@
-name: useful_extensions
+name: string_date_extensions
 description: Some useful extensions. Today we only have DateTime and String extensions
 version: 0.0.1
 homepage: https://github.com/RedMelonTech/useful-extensions

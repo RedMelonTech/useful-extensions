@@ -11,7 +11,7 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages).
 -->
 
-# Useful Extensions (String and DateTime)
+# String N Date Extensions (String and DateTime)
 
 Put a short description of the package here that helps potential users
 know whether this package might be useful for them.
