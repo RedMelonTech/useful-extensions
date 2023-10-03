@@ -177,22 +177,4 @@ extension DateTimeExtention on DateTime {
     final result = max.weekday % 7 - min.weekday % 7 >= 0;
     return result;
   }
-
-  /// The list of days in a given month
-  // List<DateTime> get daysInMonth {
-  //   var first = firstDayOfMonth;
-  //   var daysBefore = first.weekday;
-  //   var firstToDisplay = first.subtract(Duration(days: daysBefore));
-  //   var last = lastDayOfMonth;
-
-  //   var daysAfter = 7 - last.weekday;
-
-  //   // If the last day is sunday (7) the entire week must be rendered
-  //   if (daysAfter == 0) {
-  //     daysAfter = 7;
-  //   }
-
-  //   var lastToDisplay = last.add(Duration(days: daysAfter));
-  //   return daysInRange(firstToDisplay, lastToDisplay).toList();
-  // }
 }
